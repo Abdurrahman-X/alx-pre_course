@@ -1,1 +1,1 @@
-Repo session
+Keeping up with collaborators in git
